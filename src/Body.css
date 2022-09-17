@@ -1,0 +1,17 @@
+.row {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+
+img {
+    margin: 20px;
+    border-radius: 5px;
+    height: 200px;
+    width: 300px;
+}
+
+p {
+    font-weight: bold;
+}
